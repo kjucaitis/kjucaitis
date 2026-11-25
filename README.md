@@ -29,7 +29,7 @@
       <table>
         <tr><td><b>NAME</b></td><td>Kristupas (Kris)</td></tr>
         <tr><td><b>CLASS</b></td><td>Data Engineer</td></tr>
-        <tr><td><b>GUILD</b></td><td>The Information Lab</td></tr>
+        <tr><td><b>WORKS AT</b></td><td>The Information Lab</td></tr>
         <tr><td><b>TOWN</b></td><td>London</td></tr>
         <tr><td><b>ORIGIN</b></td><td>Lithuania</td></tr>
         <tr><td><b>HOBBIES</b></td><td>Cooking · travel · gaming</td></tr>
