@@ -26,9 +26,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="trainer.svg" width="120" alt="Kris, pixel trainer" />
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="44" alt="Oddish" /><br/>
-      <sub><b>KRIS</b> &amp; <b>ODDISH</b></sub>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="80" alt="Oddish" /><br/>
+      <sub><b>ALL-TIME FAVE</b></sub>
     </td>
     <td>
       <table>
@@ -42,7 +41,7 @@
       </table>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="44" /><br/>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="44" /><br/>
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif" height="44" /><br/>
       <sub><b>PARTY</b></sub>
     </td>
