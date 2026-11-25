@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="56" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" height="56" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif" height="56" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif" height="56" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="56" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="56" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="56" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" height="56" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif" height="56" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/118.gif" height="56" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" height="56" />
 </p>
 
 <p align="center">
@@ -26,8 +26,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="80" alt="Oddish" /><br/>
-      <sub><b>ALL-TIME FAVE</b></sub>
+      <img src="kris-dex.svg" width="150" alt="KRIS-DEX: No.001 Kris" />
     </td>
     <td>
       <table>
@@ -38,11 +37,12 @@
         <tr><td><b>ORIGIN</b></td><td>Lithuania</td></tr>
         <tr><td><b>HOBBIES</b></td><td>Cooking · travel · gaming</td></tr>
         <tr><td><b>SIDE QUEST</b></td><td>Exploring Azeroth</td></tr>
+        <tr><td><b>ALL-TIME FAVE</b></td><td>Oddish <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="28" /></td></tr>
       </table>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="44" /><br/>
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif" height="44" /><br/>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/118.gif" height="44" /><br/>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" height="52" /><br/>
       <sub><b>PARTY</b></sub>
     </td>
   </tr>
@@ -51,7 +51,7 @@
 <h2><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=900&pause=99999&color=78C850&vCenter=true&repeat=false&width=302&height=34&lines=HOW+KRIS+EVOLVED" alt="HOW KRIS EVOLVED" /></h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="48" />&nbsp;<b>➜</b>&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="48" />&nbsp;<b>➜</b>&nbsp;<b>?</b>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif" height="44" />&nbsp;<b>➜</b>&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/256.gif" height="52" />&nbsp;<b>➜</b>&nbsp;<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" height="60" />&nbsp;<b>➜</b>&nbsp;<b>?</b>
 </p>
 
 ```mermaid
@@ -119,7 +119,7 @@ learning:  more dbt, more Snowflake, fewer manual refreshes
 playing:   WoW: Enhancement + Restoration shaman, Arcane mage
 ```
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=900&pause=99999&color=E3350D&vCenter=true&repeat=false&width=251&height=34&lines=BATTLE+RECORD" alt="BATTLE RECORD" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif" height="40" align="right" /></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=900&pause=99999&color=E3350D&vCenter=true&repeat=false&width=251&height=34&lines=BATTLE+RECORD" alt="BATTLE RECORD" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" height="40" align="right" /></h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kjucaitis&show_icons=true&hide_border=true&count_private=true&bg_color=1B1F3B&title_color=FFCB05&text_color=FFFFFF&icon_color=3D7DCA" />
