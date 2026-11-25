@@ -53,7 +53,7 @@
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'lineColor':'#FFCB05','fontFamily':'monospace'}}}%%
 flowchart LR
-    V[Bioveterinary Sciences<br/>Royal Veterinary College] --> B[The Data<br/>School]
+    V[Bioveterinary<br/>Sciences<br/>@ RVC] --> B[The Data<br/>School]
     A[Retail &<br/>hospitality] --> B
     B --> C[Data Analyst<br/>Tableau<br/>Alteryx<br/>Power BI]
     C --> D[Data Engineer<br/>Python<br/>Snowflake<br/>dbt]
