@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="battle.svg" width="100%" alt="DATA ENGINEER KRIS wants to battle! What will YOU do?" />
+  <img src="battle.svg" width="600" alt="DATA ENGINEER KRIS wants to battle! What will YOU do?" />
 </p>
 
 <h2><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=900&pause=99999&color=FFCB05&vCenter=true&repeat=false&width=234&height=34&lines=TRAINER+CARD" alt="TRAINER CARD" /></h2>
@@ -26,8 +26,9 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="trainer.svg" width="120" alt="Kris, pixel trainer" /><br/>
-      <sub><b>KRIS</b></sub>
+      <img src="trainer.svg" width="120" alt="Kris, pixel trainer" />
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="44" alt="Oddish" /><br/>
+      <sub><b>KRIS</b> &amp; <b>ODDISH</b></sub>
     </td>
     <td>
       <table>
