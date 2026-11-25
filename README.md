@@ -48,7 +48,7 @@ Consulting placements along the way, including **Guy's & St Thomas' Foundation**
 
 | Project | What it does | Built with |
 |---------|--------------|------------|
-| [**The People's Pokémon**](https://public.tableau.com/app/profile/kristupas.jucaitis/viz/ThePeoplesPokmon/Home) | Which Pokémon people actually rate, visualised | Tableau |
+| [**pokeapi-pipeline**](https://github.com/kjucaitis/pokeapi-pipeline) | Pulls every Pokémon from PokeAPI, sprites and artwork included, then transforms it in DuckDB. Powers [The People's Pokémon](https://public.tableau.com/app/profile/kristupas.jucaitis/viz/ThePeoplesPokmon/Home) dashboard on Tableau Public | Python · DuckDB · SQL · Tableau |
 | [**tfl-bikepoint-api**](https://github.com/kjucaitis/tfl-bikepoint-api) | Pulls TfL BikePoint data hourly to track how long broken docks take to get fixed, per station | Python · S3 · Snowflake · dbt · Kestra |
 | [**amplitude-api**](https://github.com/kjucaitis/amplitude-api) | Daily export of website event data to find out what people actually click | Python · S3 · Snowflake · dbt |
 
@@ -63,6 +63,7 @@ Consulting placements along the way, including **Guy's & St Thomas' Foundation**
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/Kestra-7B2CBF?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
