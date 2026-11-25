@@ -1,82 +1,112 @@
-<!-- Header -->
+<!-- ========== TITLE SCREEN ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kristupas%20Jucaitis&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%40%20The%20Information%20Lab&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=2500&pause=99999&color=9BBC0F&background=0F380F&center=true&vCenter=true&repeat=false&width=820&height=80&lines=KRISTUPAS+JUCAITIS" alt="KRISTUPAS JUCAITIS" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=Turning+APIs+into+tables.;Python+%E2%86%92+S3+%E2%86%92+Snowflake+%E2%86%92+dbt.;Ex-analyst.+Still+likes+a+good+dashboard.;Mostly+pipelines.+Occasionally+Azeroth." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1500&color=8BAC0F&center=true&vCenter=true&width=820&height=40&lines=%E2%96%B6+DATA+ENGINEER+%40+THE+INFORMATION+LAB;%E2%96%B6+TURNING+APIs+INTO+TABLES;%E2%96%B6+PYTHON+%E2%86%92+S3+%E2%86%92+SNOWFLAKE+%E2%86%92+DBT;%E2%96%B6+GOTTA+LOAD+%27EM+ALL" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kjucaitis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.thedataschool.co.uk/blog/kristupas-justas-jucaitis/"><img src="https://img.shields.io/badge/The%20Data%20School-1E1E1E?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
-  <a href="https://public.tableau.com/app/profile/kristupas.jucaitis/vizzes"><img src="https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
-  <a href="mailto:kristupas.jucaitis@theinformationlab.co.uk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="56" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" height="56" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif" height="56" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif" height="56" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="56" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <a href="https://www.linkedin.com/in/kjucaitis/"><img src="https://img.shields.io/badge/%E2%96%B6%20LINKEDIN-306230?style=for-the-badge&logo=linkedin&logoColor=9BBC0F&labelColor=0F380F" /></a>
+  <a href="https://www.thedataschool.co.uk/blog/kristupas-justas-jucaitis/"><img src="https://img.shields.io/badge/%E2%96%B6%20THE%20DATA%20SCHOOL-306230?style=for-the-badge&logo=bookstack&logoColor=9BBC0F&labelColor=0F380F" /></a>
+  <a href="https://public.tableau.com/app/profile/kristupas.jucaitis/vizzes"><img src="https://img.shields.io/badge/%E2%96%B6%20TABLEAU%20PUBLIC-306230?style=for-the-badge&logo=tableau&logoColor=9BBC0F&labelColor=0F380F" /></a>
+  <a href="mailto:kristupas.jucaitis@theinformationlab.co.uk"><img src="https://img.shields.io/badge/%E2%96%B6%20EMAIL-306230?style=for-the-badge&logo=gmail&logoColor=9BBC0F&labelColor=0F380F" /></a>
+</p>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> Hi, I'm Kristupas (Kris)
-
-```sql
-SELECT *
-FROM   people
-WHERE  github_handle = 'kjucaitis';
+```
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   A wild DATA ENGINEER appeared!                 ║
+║                                                  ║
+║   ▶ FIGHT      PKMN                              ║
+║     BAG        RUN                               ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
-| name | role | based_in | from | off_the_clock |
-|------|------|----------|------|---------------|
-| Kristupas (Kris) | Data Engineer @ The Information Lab | London 🇬🇧 | Lithuania 🇱🇹 | cooking, travel, gaming |
+## 🪪 TRAINER CARD
 
-> `1 row returned. 0 nulls. Rare.`
+```
+┌─ TRAINER CARD ───────────────────────────────────┐
+│                                                  │
+│  NAME      KRISTUPAS (KRIS)                      │
+│  CLASS     DATA ENGINEER                         │
+│  GUILD     THE INFORMATION LAB                   │
+│  TOWN      LONDON                                │
+│  ORIGIN    LITHUANIA                             │
+│  HOBBIES   COOKING · TRAVEL · GAMING             │
+│  FAVES     ODDISH GLOOM VULPIX TOGEPI TORCHIC    │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
 
-## 🛤️ How I got here
+## 🌱 EVOLUTION CHAIN
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="48" />
+  &nbsp;<b>➜</b>&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="48" />
+  &nbsp;<b>➜</b>&nbsp;
+  <b>?</b>
+</p>
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#306230','primaryTextColor':'#9BBC0F','primaryBorderColor':'#9BBC0F','lineColor':'#8BAC0F','fontFamily':'monospace'}}}%%
 flowchart LR
-    A[🛍️ Retail & hospitality] --> B[🎓 The Data School]
-    B --> C[📊 Data Analyst<br/>Tableau · Alteryx · Power BI]
-    C --> D[🛠️ Data Engineer<br/>Python · Snowflake · dbt]
-    D --> E[(❓ TBC)]
+    A[RETAIL &<br/>HOSPITALITY] --> B[THE DATA<br/>SCHOOL]
+    B --> C[DATA ANALYST<br/>Tableau · Alteryx · Power BI]
+    C --> D[DATA ENGINEER<br/>Python · Snowflake · dbt]
+    D --> E((???))
 ```
 
-Consulting placements along the way, including **Guy's & St Thomas' Foundation** (Tableau dashboards for the *State of Urban Health* report) and **Voyage Care** (migrated ~150 users to Alteryx One, rebuilt referrals reporting in Power BI on a new Synapse/ADF pipeline).
+> *What? KRIS is evolving!* Along the way: consulting placements at **Guy's & St Thomas' Foundation** (Tableau dashboards for the *State of Urban Health* report) and **Voyage Care** (migrated ~150 users to Alteryx One, rebuilt referrals reporting in Power BI on a new Synapse/ADF pipeline).
 
-## 🚧 Featured projects
+## 📕 POKéDEX: PROJECTS CAUGHT
 
-| Project | What it does | Built with |
-|---------|--------------|------------|
-| [**pokeapi-pipeline**](https://github.com/kjucaitis/pokeapi-pipeline) | Pulls every Pokémon from PokeAPI, sprites and artwork included, then transforms it in DuckDB. Powers [The People's Pokémon](https://public.tableau.com/app/profile/kristupas.jucaitis/viz/ThePeoplesPokmon/Home) dashboard on Tableau Public | Python · DuckDB · SQL · Tableau |
-| [**tfl-bikepoint-api**](https://github.com/kjucaitis/tfl-bikepoint-api) | Pulls TfL BikePoint data hourly to track how long broken docks take to get fixed, per station | Python · S3 · Snowflake · dbt · Kestra |
-| [**amplitude-api**](https://github.com/kjucaitis/amplitude-api) | Daily export of website event data to find out what people actually click | Python · S3 · Snowflake · dbt |
+| No. | Project | What it does | Type |
+|-----|---------|--------------|------|
+| `001` | [**pokeapi-pipeline**](https://github.com/kjucaitis/pokeapi-pipeline) | Pulls every Pokémon from PokeAPI, sprites and artwork included, then transforms it in DuckDB. Powers [The People's Pokémon](https://public.tableau.com/app/profile/kristupas.jucaitis/viz/ThePeoplesPokmon/Home) dashboard on Tableau Public | Python · DuckDB · SQL · Tableau |
+| `002` | [**tfl-bikepoint-api**](https://github.com/kjucaitis/tfl-bikepoint-api) | Pulls TfL BikePoint data hourly to track how long broken docks take to get fixed, per station | Python · S3 · Snowflake · dbt · Kestra |
+| `003` | [**amplitude-api**](https://github.com/kjucaitis/amplitude-api) | Daily export of website event data to find out what people actually click | Python · S3 · Snowflake · dbt |
 
-## 🧰 Toolbox
+## 🎒 BAG <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" height="40" align="right" />
 
-**Engineering**
+**▶ KEY ITEMS** *(engineering)*
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kestra-7B2CBF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-306230?style=flat-square&logo=python&logoColor=9BBC0F" />
+  <img src="https://img.shields.io/badge/SQL-306230?style=flat-square&logo=postgresql&logoColor=9BBC0F" />
+  <img src="https://img.shields.io/badge/Snowflake-306230?style=flat-square&logo=snowflake&logoColor=9BBC0F" />
+  <img src="https://img.shields.io/badge/dbt-306230?style=flat-square&logo=dbt&logoColor=9BBC0F" />
+  <img src="https://img.shields.io/badge/DuckDB-306230?style=flat-square&logo=duckdb&logoColor=9BBC0F" />
+  <img src="https://img.shields.io/badge/AWS%20S3-306230?style=flat-square&logo=amazons3&logoColor=9BBC0F" />
+  <img src="https://img.shields.io/badge/Kestra-306230?style=flat-square" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-306230?style=flat-square&logo=microsoftazure&logoColor=9BBC0F" />
+  <img src="https://img.shields.io/badge/Git-306230?style=flat-square&logo=git&logoColor=9BBC0F" />
 </p>
 
-**Analytics & viz**
+**▶ TMs** *(analytics & viz)*
 <p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/Alteryx-0078C0?style=flat-square&logo=alteryx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau%20Prep-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-306230?style=flat-square&logo=tableau&logoColor=9BBC0F" />
+  <img src="https://img.shields.io/badge/Power%20BI-306230?style=flat-square&logo=powerbi&logoColor=9BBC0F" />
+  <img src="https://img.shields.io/badge/DAX-306230?style=flat-square" />
+  <img src="https://img.shields.io/badge/Alteryx-306230?style=flat-square&logo=alteryx&logoColor=9BBC0F" />
+  <img src="https://img.shields.io/badge/Tableau%20Prep-306230?style=flat-square&logo=tableau&logoColor=9BBC0F" />
 </p>
 
-## 📡 Currently
+## 🥚 CURRENTLY HATCHING <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif" height="40" align="right" />
 
 ```yaml
 building:  SQL replacements for Tableau Prep flows
@@ -85,18 +115,27 @@ learning:  more dbt, more Snowflake, fewer manual refreshes
 playing:   WoW (Enhancement shaman, Arcane mage)
 ```
 
-## 📈 Activity
+## 🔥 TRAINER STATS <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif" height="40" align="right" />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kjucaitis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=kjucaitis&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kjucaitis&show_icons=true&hide_border=true&count_private=true&bg_color=0F380F&title_color=9BBC0F&text_color=8BAC0F&icon_color=9BBC0F" />
+  <img height="165" src="https://streak-stats.demolab.com?user=kjucaitis&hide_border=true&background=0F380F&ring=9BBC0F&fire=9BBC0F&currStreakNum=9BBC0F&sideNums=9BBC0F&currStreakLabel=8BAC0F&sideLabels=8BAC0F&dates=306230&stroke=306230" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kjucaitis&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kjucaitis&bg_color=0F380F&color=9BBC0F&line=8BAC0F&point=9BBC0F&area_color=306230&area=true&hide_border=true" width="100%" />
 </p>
 
-<!-- Footer -->
+```
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   KRIS saved the game.                           ║
+║   Thanks for visiting! ▼                         ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="40" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="40" />
 </p>
