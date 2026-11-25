@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kris%20Jucaitis&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%40%20The%20Information%20Lab&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kristupas%20Jucaitis&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%40%20The%20Information%20Lab&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.thedataschool.co.uk/YOUR-BLOG-PAGE/"><img src="https://img.shields.io/badge/Data%20School%20Blog-1E1E1E?style=for-the-badge&logo=rss&logoColor=white" /></a>
-  <a href="https://public.tableau.com/app/profile/YOUR-TABLEAU-PUBLIC"><img src="https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kjucaitis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.thedataschool.co.uk/blog/kristupas-justas-jucaitis/"><img src="https://img.shields.io/badge/The%20Data%20School-1E1E1E?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+  <a href="https://public.tableau.com/app/profile/kristupas.jucaitis/vizzes"><img src="https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+  <a href="mailto:kristupas.jucaitis@theinformationlab.co.uk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> Hi, I'm Kris
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"> Hi, I'm Kristupas (Kris)
 
 ```sql
 SELECT *
@@ -28,7 +28,7 @@ WHERE  github_handle = 'kjucaitis';
 
 | name | role | based_in | from | off_the_clock |
 |------|------|----------|------|---------------|
-| Kris | Data Engineer @ The Information Lab | London 🇬🇧 | Lithuania 🇱🇹 | cooking, travel, gaming |
+| Kristupas (Kris) | Data Engineer @ The Information Lab | London 🇬🇧 | Lithuania 🇱🇹 | cooking, travel, gaming |
 
 > `1 row returned. 0 nulls. Rare.`
 
@@ -44,10 +44,11 @@ flowchart LR
 
 Consulting placements along the way, including **Guy's & St Thomas' Foundation** (Tableau dashboards for the *State of Urban Health* report) and **Voyage Care** (migrated ~150 users to Alteryx One, rebuilt referrals reporting in Power BI on a new Synapse/ADF pipeline).
 
-## 🚧 Featured pipelines
+## 🚧 Featured projects
 
 | Project | What it does | Built with |
 |---------|--------------|------------|
+| [**The People's Pokémon**](https://public.tableau.com/app/profile/kristupas.jucaitis/viz/ThePeoplesPokmon/Home) | Which Pokémon people actually rate, visualised | Tableau |
 | [**tfl-bikepoint-api**](https://github.com/kjucaitis/tfl-bikepoint-api) | Pulls TfL BikePoint data hourly to track how long broken docks take to get fixed, per station | Python · S3 · Snowflake · dbt · Kestra |
 | [**amplitude-api**](https://github.com/kjucaitis/amplitude-api) | Daily export of website event data to find out what people actually click | Python · S3 · Snowflake · dbt |
 
