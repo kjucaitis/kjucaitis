@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1500&color=8BAC0F&center=true&vCenter=true&width=820&height=40&lines=%E2%96%B6+DATA+ENGINEER+%40+THE+INFORMATION+LAB;%E2%96%B6+TURNING+APIs+INTO+TABLES;%E2%96%B6+PYTHON+%E2%86%92+S3+%E2%86%92+SNOWFLAKE+%E2%86%92+DBT;%E2%96%B6+GOTTA+LOAD+%27EM+ALL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1500&color=8BAC0F&center=true&vCenter=true&width=820&height=40&lines=%E2%96%B6+DATA+ENGINEER+%40+THE+INFORMATION+LAB;%E2%96%B6+TURNING+APIs+INTO+TABLES;%E2%96%B6+PYTHON+%E2%86%92+S3+%E2%86%92+SNOWFLAKE+%E2%86%92+DBT;%E2%96%B6+GOTTA+LOAD+%27EM+ALL;%E2%96%B6+MOSTLY+PIPELINES.+OCCASIONALLY+AZEROTH." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,32 +26,37 @@
   <a href="mailto:kristupas.jucaitis@theinformationlab.co.uk"><img src="https://img.shields.io/badge/%E2%96%B6%20EMAIL-306230?style=for-the-badge&logo=gmail&logoColor=9BBC0F&labelColor=0F380F" /></a>
 </p>
 
-```
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   A wild DATA ENGINEER appeared!                 ║
-║                                                  ║
-║   ▶ FIGHT      PKMN                              ║
-║     BAG        RUN                               ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2200&pause=99999&color=9BBC0F&background=0F380F&vCenter=true&multiline=true&repeat=false&width=620&height=90&lines=A+wild+DATA+ENGINEER+appeared%21;%E2%96%B6+FIGHT+++PKMN+++BAG+++RUN" alt="A wild DATA ENGINEER appeared!  %E2%96%B6 FIGHT   PKMN   BAG   RUN" />
+</p>
 
 ## 🪪 TRAINER CARD
 
-```
-┌─ TRAINER CARD ───────────────────────────────────┐
-│                                                  │
-│  NAME      KRISTUPAS (KRIS)                      │
-│  CLASS     DATA ENGINEER                         │
-│  GUILD     THE INFORMATION LAB                   │
-│  TOWN      LONDON                                │
-│  ORIGIN    LITHUANIA                             │
-│  HOBBIES   COOKING · TRAVEL · GAMING             │
-│  FAVES     ODDISH GLOOM VULPIX TOGEPI TORCHIC    │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
+<table align="center">
+  <tr>
+    <td>
+
+| | |
+|---|---|
+| **NAME** | Kristupas (Kris) |
+| **CLASS** | Data Engineer |
+| **GUILD** | The Information Lab |
+| **TOWN** | London 🇬🇧 |
+| **ORIGIN** | Lithuania 🇱🇹 |
+| **HOBBIES** | Cooking · travel · gaming |
+| **SIDE QUEST** | Exploring Azeroth |
+
+  </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="44" />
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="44" /><br/>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" height="44" />
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif" height="44" />
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif" height="44" /><br/>
+      <sub><b>PARTY</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## 🌱 EVOLUTION CHAIN
 
@@ -112,7 +117,7 @@ flowchart LR
 building:  SQL replacements for Tableau Prep flows
 writing:   Git for data people (a blog post, eventually)
 learning:  more dbt, more Snowflake, fewer manual refreshes
-playing:   WoW (Enhancement shaman, Arcane mage)
+playing:   WoW: Enhancement + Restoration shaman, Arcane mage
 ```
 
 ## 🔥 TRAINER STATS <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif" height="40" align="right" />
@@ -126,14 +131,9 @@ playing:   WoW (Enhancement shaman, Arcane mage)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kjucaitis&bg_color=0F380F&color=9BBC0F&line=8BAC0F&point=9BBC0F&area_color=306230&area=true&hide_border=true" width="100%" />
 </p>
 
-```
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   KRIS saved the game.                           ║
-║   Thanks for visiting! ▼                         ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2200&pause=99999&color=9BBC0F&background=0F380F&vCenter=true&multiline=true&repeat=false&width=620&height=90&lines=KRIS+saved+the+game.;Thanks+for+visiting%21" alt="KRIS saved the game. Thanks for visiting!" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="40" />
