@@ -53,7 +53,8 @@
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'lineColor':'#FFCB05','fontFamily':'monospace'}}}%%
 flowchart LR
-    A[Retail &<br/>hospitality] --> B[The Data<br/>School]
+    V[Bioveterinary Sciences<br/>Royal Veterinary College] --> B[The Data<br/>School]
+    A[Retail &<br/>hospitality] --> B
     B --> C[Data Analyst<br/>Tableau<br/>Alteryx<br/>Power BI]
     C --> D[Data Engineer<br/>Python<br/>Snowflake<br/>dbt]
     D --> E((???))
@@ -62,6 +63,8 @@ flowchart LR
     classDef yellow fill:#1B1F3B,stroke:#FFCB05,color:#FFCB05
     classDef red fill:#1B1F3B,stroke:#E3350D,color:#FFFFFF
     classDef green fill:#1B1F3B,stroke:#78C850,color:#78C850
+    classDef pink fill:#1B1F3B,stroke:#EE99AC,color:#FFFFFF
+    class V pink
     class A grey
     class B blue
     class C red
@@ -69,7 +72,7 @@ flowchart LR
     class E green
 ```
 
-> *What? KRIS is evolving!* Along the way: consulting placements at **Guy's & St Thomas' Foundation** (Tableau dashboards for the *State of Urban Health* report) and **Voyage Care** (migrated ~150 users to Alteryx One, rebuilt referrals reporting in Power BI on a new Synapse/ADF pipeline).
+> *What? KRIS is evolving!* Studied Bioveterinary Sciences at the **Royal Veterinary College** while working in retail and hospitality, then swapped animals for data. Along the way: consulting placements at **Guy's & St Thomas' Foundation** (Tableau dashboards for the *State of Urban Health* report) and **Voyage Care** (migrated ~150 users to Alteryx One, rebuilt referrals reporting in Power BI on a new Synapse/ADF pipeline).
 
 <h2><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=900&pause=99999&color=F08030&vCenter=true&repeat=false&width=285&height=34&lines=PROJECTS+CAUGHT" alt="PROJECTS CAUGHT" /></h2>
 
@@ -83,15 +86,15 @@ flowchart LR
 
 **KEY ITEMS** · engineering
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/DuckDB-C9A800?style=flat-square&logo=duckdb&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/Kestra-7B2CBF?style=flat-square" />
   <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 **TMs** · analytics & viz
