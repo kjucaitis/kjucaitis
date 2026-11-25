@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2200&pause=99999&color=FFCB05&background=1B1F3B&vCenter=true&multiline=true&repeat=false&width=620&height=90&lines=A+wild+DATA+ENGINEER+appeared%21;%E2%96%B6+FIGHT++PKMN++BAG++RUN" alt="A wild DATA ENGINEER appeared!" />
+  <img src="battle.svg" width="100%" alt="A wild DATA ENGINEER appeared! What will KRIS do?" />
 </p>
 
 <h2><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=900&pause=99999&color=FFCB05&vCenter=true&repeat=false&width=234&height=34&lines=TRAINER+CARD" alt="TRAINER CARD" /></h2>
@@ -127,7 +127,7 @@ playing:   WoW: Enhancement + Restoration shaman, Arcane mage
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2200&pause=99999&color=FFCB05&background=1B1F3B&vCenter=true&multiline=true&repeat=false&width=620&height=90&lines=KRIS+saved+the+game.;Thanks+for+visiting%21" alt="KRIS saved the game. Thanks for visiting!" />
+  <img src="save.svg" width="100%" alt="KRIS saved the game. Thanks for visiting!" />
 </p>
 
 <p align="center">
