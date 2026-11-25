@@ -37,13 +37,12 @@
         <tr><td><b>ORIGIN</b></td><td>Lithuania</td></tr>
         <tr><td><b>HOBBIES</b></td><td>Cooking · travel · gaming</td></tr>
         <tr><td><b>SIDE QUEST</b></td><td>Exploring Azeroth</td></tr>
-        <tr><td><b>ALL-TIME FAVE</b></td><td>Oddish <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="28" /></td></tr>
       </table>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/118.gif" height="44" /><br/>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/118.gif" height="44" /><br/>
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif" height="44" /> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" height="52" /><br/>
-      <sub><b>PARTY</b></sub>
+      <sub><b>PARTY</b> · fave: <b>ODDISH</b></sub>
     </td>
   </tr>
 </table>
